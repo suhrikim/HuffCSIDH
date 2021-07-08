@@ -1,0 +1,1 @@
+Implementation of CSIDH on Huff curves using the compression method proposed in "Optimized arithmetic opreations for isogeny-based cryptography on Huff curves" by Huang et al. 
